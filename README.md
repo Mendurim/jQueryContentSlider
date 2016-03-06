@@ -1,4 +1,4 @@
-# jQueryContentSlider
+# jQuery_Content_Slider
 ======================
 
 + Content slider using HTML5 and jQuery
